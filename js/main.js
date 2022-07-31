@@ -92,7 +92,7 @@ function random(min, max) {
   return parseFloat((Math.random() * (max - min) + min).toFixed(2));
 }
 function floatingObject(selector, delay, size) {
-  // gsap.to(요소, 시간, 옵션);
+  // gsap.to(요소, 지속시간, 옵션);
   gsap.to(selector, random(1.5, 2.5), {
     y: size,
     repeat: -1,
