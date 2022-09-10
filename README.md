@@ -1,3 +1,19 @@
+# 프로젝트 소개
+
+프로젝트 주제: 스타벅스 홈페이지 클론코딩 하기
+
+프로젝트 기간: 7월 24일 ~ 8월 2일
+
+## 사용 언어
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=black">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+## 사용 라이브러리
+Swiper.js, GSAP, Lodash, ScrollMagic
+
+<br />
+
 # ☕ STARBUCKS
 
 ## 오픈 그래프(The Open Graph protocol)
